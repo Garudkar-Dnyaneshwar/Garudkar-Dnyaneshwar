@@ -10,19 +10,16 @@ I'm Dnyaneshwar Garudkar a Full Stack Js Developer who specializes in JavaScript
                   <img alt="Linkedin URL" src="https://img.shields.io/twitter/url?color=1ca0f1&label=Dnyaneshwar&logo=linkedin&logoColor=1ca0f1&style=flat-square&url=https%3A%2F%2Ftwitter.com%2FGarudkarD%3Fs%3D08">
             </a>
       </div>
-      &nbsp;
       <div style="display: inline-block;">
             <a target="_blank" href="mailto:garudkardnyaneshwar@gmail.com">
                    <img alt="Gmail URL" src="https://img.shields.io/twitter/url?color=de6f5a&label=garudkardnyaneshwar&logo=gmail&logoColor=de6f5a&style=flat-square&url=https%3A%2F%2Fmailto%3Agarudkardnyaneshwar%40gmail.com">
             </a>
       </div>
-      &nbsp;
       <div style="display: inline-block;">
             <a target="_blank" href="https://twitter.com/GarudkarD?s=08">
                   <img alt="Twitter URL" src="https://img.shields.io/twitter/url?color=1ca0f1&label=%40GarudkarD&logo=twitter&style=flat-square&url=https%3A%2F%2Ftwitter.com%2FGarudkarD%3Fs%3D08">
             </a>
       </div>
-      &nbsp;
       <div style="display: inline-block;">
             <a target="_blank" href="https://www.instagram.com/danny_4884_">
                   <img alt="Instagram URL" src="https://img.shields.io/twitter/url?color=e84393&label=%40danny&logo=instagram&logoColor=e84393&style=flat-square&url=https%3A%2F%2Fwww.instagram.com%2Fhttps%3A%2F%2Fwww.instagram.com%2Fdanny_4884_%2F">
