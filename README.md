@@ -1,16 +1,19 @@
-### Hi there 👋
-
-<!--
-**Garudkar-Dnyaneshwar/Garudkar-Dnyaneshwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello World, I'm Garudkar Dnyaneshwar 👋
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on NodeJs
+- 🌱 I’m currently learning more about Designing (UI/UX)
+- ⚡ Fun fact: I spend almost 12 hours with my computer everyday.
+
+Technologies:
+
+      Javascript, React, Angular, Typescript, Html, Css, jQuery, PWA
+      
+      Node, Express
+      
+      Firebase- Hosting, Messaging, Storage, Cloud Functions
+
+Also interested in:
+
+      SEO, Web Performance & Optimization, Google Api's
