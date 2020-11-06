@@ -27,10 +27,12 @@ I'm Dnyaneshwar Garudkar a Full Stack Js Developer who specializes in JavaScript
       </div>
 </div>
 <br/>
+- 🔭 I’m currently working on SSR (Server Side Rendering)
 <br/>
-- 🔭 I’m currently working on SSR (Server Side Rendering).
 - 🌱 I’m currently learning more about Designing (UI/UX)
+<br/>
 - :computer: Most used line of code `git commit -m "First Commit"`
+<br/>
 - 🤔 Although I'm currently looking for new opportunities, my inbox is always open. Whether you have a question or just want to say hi, I'll get back to you!
 
 #### Know more about me: &nbsp; https://garudkardanny.web.app
