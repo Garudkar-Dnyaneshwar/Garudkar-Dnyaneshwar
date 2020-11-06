@@ -5,11 +5,8 @@ I'm Dnyaneshwar Garudkar a Full Stack Js Developer who specializes in JavaScript
 :mailbox: Reach me out!
 
 <img alt="Linkedin URL" src="https://img.shields.io/twitter/url?color=1ca0f1&label=Dnyaneshwar&logo=linkedin&logoColor=1ca0f1&style=flat-square&url=https%3A%2F%2Ftwitter.com%2FGarudkarD%3Fs%3D08">
-&nbsp;
 <img alt="Gmail URL" src="https://img.shields.io/twitter/url?color=de6f5a&label=garudkardnyaneshwar&logo=gmail&logoColor=de6f5a&style=flat-square&url=https%3A%2F%2Fmailto%3Agarudkardnyaneshwar%40gmail.com">
-&nbsp;
 <img alt="Twitter URL" src="https://img.shields.io/twitter/url?color=1ca0f1&label=%40GarudkarD&logo=twitter&style=flat-square&url=https%3A%2F%2Ftwitter.com%2FGarudkarD%3Fs%3D08">
-&nbsp;
 <img alt="Instagram URL" src="https://img.shields.io/twitter/url?color=e84393&label=%40danny&logo=instagram&logoColor=e84393&style=flat-square&url=https%3A%2F%2Fwww.instagram.com%2Fhttps%3A%2F%2Fwww.instagram.com%2Fdanny_4884_%2F">
 
 
@@ -36,8 +33,4 @@ I'm Dnyaneshwar Garudkar a Full Stack Js Developer who specializes in JavaScript
 
 #### Also interested in:
 
-<<<<<<< HEAD
       UI/UX Designing, SEO, Web Performance & Optimization, Google Api's
-=======
-      UI/UX Designing, SEO, Web Performance & Optimization, Google Api's
->>>>>>> 7b50d9c6c2f4e3bf6a841b32546e8b45031f6fa9
