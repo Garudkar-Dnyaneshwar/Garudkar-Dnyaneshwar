@@ -1,12 +1,32 @@
-### Hello World, I'm Garudkar Dnyaneshwar 👋
+## Hi I'm Dnyaneshwar <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-Here are some ideas to get you started:
+I'm Dnyaneshwar Garudkar a Full Stack Js Developer who specializes in JavaScript Technologies across the whole stack (React-Redux, Angular, Node.js, Express, Firebase) with 2+ years experience of designing and developing websites, e-Commerce platforms, web applications or everything in between. 
 
-- 🔭 I’m currently working on NodeJs
+:mailbox: Reach me out!
+
+<img alt="Linkedin URL" src="https://img.shields.io/twitter/url?color=1ca0f1&label=Dnyaneshwar&logo=linkedin&logoColor=1ca0f1&style=flat-square&url=https%3A%2F%2Ftwitter.com%2FGarudkarD%3Fs%3D08">
+&nbsp;
+<img alt="Gmail URL" src="https://img.shields.io/twitter/url?color=de6f5a&label=garudkardnyaneshwar&logo=gmail&logoColor=de6f5a&style=flat-square&url=https%3A%2F%2Fmailto%3Agarudkardnyaneshwar%40gmail.com">
+&nbsp;
+<img alt="Twitter URL" src="https://img.shields.io/twitter/url?color=1ca0f1&label=%40GarudkarD&logo=twitter&style=flat-square&url=https%3A%2F%2Ftwitter.com%2FGarudkarD%3Fs%3D08">
+&nbsp;
+<img alt="Instagram URL" src="https://img.shields.io/twitter/url?color=e84393&label=%40danny&logo=instagram&logoColor=e84393&style=flat-square&url=https%3A%2F%2Fwww.instagram.com%2Fhttps%3A%2F%2Fwww.instagram.com%2Fdanny_4884_%2F">
+
+
+- 🔭 I’m currently working on SSR (Server Side Rendering).
 - 🌱 I’m currently learning more about Designing (UI/UX)
-- ⚡ Fun fact: I spend almost 12 hours with my computer everyday.
+- :computer: Most used line of code `git commit -m "First Commit"`
+- 🤔 Although I'm currently looking for new opportunities, my inbox is always open. Whether you have a question or just want to say hi, I'll get back to you!
 
-Technologies:
+#### Know more about me: &nbsp; https://garudkardanny.web.app
+
+
+#### Top Technologies
+
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
+
+
+#### Technologies:
 
       Javascript, React, Angular, Typescript, Html, Css, jQuery, PWA
       
@@ -14,10 +34,6 @@ Technologies:
       
       Firebase- Hosting, Messaging, Storage, Cloud Functions
 
-Also interested in:
+#### Also interested in:
 
-      SEO, Web Performance & Optimization, Google Api's
-
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='30'>](https://garudkardanny.web.app/)         [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/https://github.com/Garudkar-Dnyaneshwar)           [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/https://www.linkedin.com/in/dnyaneshwar-garudkar/)             [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='30'>](https://www.instagram.com/https://www.instagram.com/danny_4884_/)          [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='30'>](https://twitter.com/https://twitter.com/GarudkarD?s=08)              [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='30'>](garudkardnyaneshwar@gmail.com)  
+      UI/UX Designing, SEO, Web Performance & Optimization, Google Api's
