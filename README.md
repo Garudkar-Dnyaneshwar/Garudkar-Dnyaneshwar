@@ -5,14 +5,14 @@ I'm Dnyaneshwar Garudkar a Full Stack Js Developer who specializes in JavaScript
 :mailbox: Reach me out!
 
 <div style="display: inline-block;">
-      <div style="display: inline-block;">
-            <a target="_blank" href="https://www.linkedin.com/in/dnyaneshwar-garudkar">
-                  <img alt="Linkedin URL" src="https://img.shields.io/twitter/url?color=1ca0f1&label=Dnyaneshwar&logo=linkedin&logoColor=1ca0f1&style=flat-square&url=https%3A%2F%2Ftwitter.com%2FGarudkarD%3Fs%3D08">
+    <div style="display: inline-block;">
+            <a target="_blank" href="mailto:garudkardnyaneshwar@gmail.com">
+                   <img alt="Gmail URL" src="https://img.shields.io/twitter/url?color=de6f5a&label=garudkardnyaneshwar&logo=gmail&logoColor=de6f5a&style=flat-square&url=https%3A%2F%2Fmailto%3Agarudkardnyaneshwar%40gmail.com">
             </a>
       </div>
       <div style="display: inline-block;">
-            <a target="_blank" href="mailto:garudkardnyaneshwar@gmail.com">
-                   <img alt="Gmail URL" src="https://img.shields.io/twitter/url?color=de6f5a&label=garudkardnyaneshwar&logo=gmail&logoColor=de6f5a&style=flat-square&url=https%3A%2F%2Fmailto%3Agarudkardnyaneshwar%40gmail.com">
+            <a target="_blank" href="https://www.linkedin.com/in/dnyaneshwar-garudkar">
+                  <img alt="Linkedin URL" src="https://img.shields.io/twitter/url?color=1ca0f1&label=Dnyaneshwar&logo=linkedin&logoColor=1ca0f1&style=flat-square&url=https%3A%2F%2Ftwitter.com%2FGarudkarD%3Fs%3D08">
             </a>
       </div>
       <div style="display: inline-block;">
