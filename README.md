@@ -36,4 +36,8 @@ I'm Dnyaneshwar Garudkar a Full Stack Js Developer who specializes in JavaScript
 
 #### Also interested in:
 
+<<<<<<< HEAD
       UI/UX Designing, SEO, Web Performance & Optimization, Google Api's
+=======
+      UI/UX Designing, SEO, Web Performance & Optimization, Google Api's
+>>>>>>> 7b50d9c6c2f4e3bf6a841b32546e8b45031f6fa9
