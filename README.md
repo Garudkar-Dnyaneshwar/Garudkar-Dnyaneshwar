@@ -35,7 +35,7 @@ I'm Dnyaneshwar Garudkar a Full Stack Js Developer who specializes in JavaScript
 <br/>
 - 🤔 Although I'm currently looking for new opportunities, my inbox is always open. Whether you have a question or just want to say hi, I'll get back to you!
 
-#### Know more about me: &nbsp; https://garudkardanny.web.app
+#### Know more about me: &nbsp; garudkar.in
 
 #### Top Technologies
 
