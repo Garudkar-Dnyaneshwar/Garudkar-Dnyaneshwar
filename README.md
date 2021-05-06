@@ -35,19 +35,23 @@ I'm Dnyaneshwar Garudkar a Full Stack Js Developer who specializes in JavaScript
 <br/>
 - 🤔 Although I'm currently looking for new opportunities, my inbox is always open. Whether you have a question or just want to say hi, I'll get back to you!
 
-#### Know more about me: &nbsp; garudkar.in
+#### Know more about me: &nbsp; <a href="https://garudkar.in">garudkar.in</a>
 
-#### Top Technologies
+#### My Favourite
 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
+[![Javascript Badge](https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](#) [![Typescript Badge](https://img.shields.io/badge/typescript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)](#) [![React Badge](https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)](#) [![Redux Badge](https://img.shields.io/badge/redux-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white)](#) [![NodeJs Badge](https://img.shields.io/badge/node.js-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)](#) [![NextJs Badge](https://img.shields.io/badge/nextjs-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white)](#) [![Firebase Badge](https://img.shields.io/badge/firebase-%23039BE5.svg?&style=for-the-badge&logo=firebase)](#) [![MaterialUi Badge](https://img.shields.io/badge/materialui-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white)](#)
+
+#### Currently Learning
+
+[![Vercel Badge](https://img.shields.io/badge/vercel-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white)](#) [![Figma Badge](https://img.shields.io/badge/figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white)](#)
 
 #### Technologies:
 
-      Javascript, React, Angular, Typescript, Html, Css, jQuery, PWA
+      Javascript, React, Angular, NextJs, Typescript, Html, Css, jQuery, PWA
 
       Node, Express
 
-      Firebase- Hosting, Messaging, Storage, Cloud Functions
+      Firebase -> Hosting, Messaging, Storage, Cloud Functions
 
 #### Also interested in:
 
