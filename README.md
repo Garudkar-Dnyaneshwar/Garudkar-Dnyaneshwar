@@ -4,6 +4,13 @@ I'm Dnyaneshwar Garudkar a Full Stack Js Developer who specializes in JavaScript
 
 :mailbox: Reach me out!
 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:garudkardnyaneshwar@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dnyaneshwar-garudkar)
+[![Twitter Badge](https://img.shields.io/badge/<handle>-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/GarudkarD?s=08)
+[![Instagram Badge](https://img.shields.io/badge/<handle>-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/danny_4884_)
+[![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/7507832247)
+
+<!--
 <div style="display: inline-block;">
     <div style="display: inline-block;">
             <a target="_blank" href="mailto:garudkardnyaneshwar@gmail.com">
@@ -25,7 +32,7 @@ I'm Dnyaneshwar Garudkar a Full Stack Js Developer who specializes in JavaScript
                   <img alt="Instagram URL" src="https://img.shields.io/twitter/url?color=e84393&label=%40danny&logo=instagram&logoColor=e84393&style=flat-square&url=https%3A%2F%2Fwww.instagram.com%2Fhttps%3A%2F%2Fwww.instagram.com%2Fdanny_4884_%2F">
             </a>
       </div>
-</div>
+</div> -->
 <br/>
 - 🔭 I’m currently working on SSR (Server Side Rendering)
 <br/>
