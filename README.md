@@ -2,7 +2,7 @@
 
 I'm Dnyaneshwar Garudkar a Full Stack Js Developer who specializes in JavaScript Technologies across the whole stack (React-Redux, Angular, Node.js, Express, Firebase) with 2+ years experience of designing and developing websites, e-Commerce platforms, web applications or everything in between.
 
-:mailbox: Reach me out!
+#### :mailbox: Reach me out!
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:garudkardnyaneshwar@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dnyaneshwar-garudkar)
